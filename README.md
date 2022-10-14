@@ -1,6 +1,8 @@
 # ToDo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
+Angular 14
+Bootstrap 5
+Matireal UI
 
 ## Development server
 
